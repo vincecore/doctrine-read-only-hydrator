@@ -2,6 +2,7 @@
     "name": "steevanb/doctrine-read-only-hydrator",
     "license": "MIT",
     "description": "Fast hydratation for read only purpose",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": { "steevanb\\DoctrineReadOnlyHydrator\\": "" }
     },
